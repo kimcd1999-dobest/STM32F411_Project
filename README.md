@@ -25,16 +25,16 @@
 
 * RCC : Disable
 
-![](image5.png)
+![](image/image5.png)
 
 * CLOCK
 
-![](image6.png)
+![](image/image6.png)
 
 
 * 프로젝트 생성
 
-![](image7.png)
+![](image/image7.png)
 
 
 

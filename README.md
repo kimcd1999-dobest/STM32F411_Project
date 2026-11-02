@@ -31,3 +31,7 @@ def hello():
 ```bash
 npm install package-name
 ```
+
+<p align="center">
+  <img src="image1.png">
+</p>

@@ -24,7 +24,7 @@ STM32F411_Project test
   - 하위 항목 2
     - 더 깊은 하위 항목
 
-```
+```python
 def hello():
     print("Hello World")
 ```

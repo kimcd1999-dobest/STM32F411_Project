@@ -33,5 +33,17 @@ npm install package-name
 ```
 
 <p align="center">
-  <img src="image1.png">
+  <img src="./image/image1.png" width="600">
+</p>
+
+<p align="center">
+  <img src="./image/image2.png" width="600">
+</p>
+
+<p align="center">
+  <img src="./image/image3.png" width="600">
+</p>
+
+<p align="center">
+  <img src="./image/image4.png" width="600">
 </p>

@@ -1,6 +1,6 @@
 # STM32F411_Project
 
-## HW 
+## Hardware 
 
 <table>
   <tr>

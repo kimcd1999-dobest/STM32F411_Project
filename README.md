@@ -20,3 +20,33 @@
     </td>
   </tr>
 </table>
+
+## Firmware
+
+* RCC : Disable
+
+![](image5.png)
+
+* CLOCK
+
+![](image6.png)
+
+
+* 프로젝트 생성
+
+![](image7.png)
+
+
+
+```c
+  /* Infinite loop */
+  /* USER CODE BEGIN WHILE */
+  while (1)
+  {
+    /* USER CODE END WHILE */
+
+    /* USER CODE BEGIN 3 */
+  }
+  /* USER CODE END 3 */
+}
+```

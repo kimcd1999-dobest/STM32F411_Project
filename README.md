@@ -5,18 +5,18 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./image/image1.PNG" width="400">
+      <img src="./image/image1.PNG" width="600">
     </td>
     <td align="center">
-      <img src="./image/image2.PNG" width="400">
+      <img src="./image/image2.PNG" width="600">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./image/image3.PNG" width="400">
+      <img src="./image/image3.PNG" width="600">
     </td>
     <td align="center">
-      <img src="./image/image4.PNG" width="400">
+      <img src="./image/image4.PNG" width="600">
     </td>
   </tr>
 </table>

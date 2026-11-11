@@ -1,4 +1,4 @@
-### 1. LED_Blink
+## 1. LED_Blink
 
 <small>[1.1. STM32CubeMX](#11-stm32cubemx)</small>
 
@@ -6,9 +6,12 @@
 
 <small>[1.3. Reference Manual 확인 및 GPIO 설정 변경](#13-reference-manual-확인-및-gpio-설정-변경)</small>
 
-<small>[1.4. 오실로스코프](#14-오실로스코프)</small>
+<small>[1.4. Oscilloscope](#14-oscilloscope)</small>
 
-#### 1.1. STM32cubeMX
+---
+
+
+### 1.1. STM32cubeMX
 
 <img alt="LED_Blinks_001" src="./img_led/led_01.png" style="zoom: 80%;" />
 <br>
@@ -47,7 +50,8 @@
   }
 ```
 
-#### 1.2. Debugging
+
+### 1.2. Debugging
 
 1. Debug Mode
 
@@ -70,7 +74,9 @@
 | `0x00` | LED OFF |
 | `0x20` | PA5 HIGH → LED ON |
 
-#### 1.3. Reference Manual 확인 및 GPIO 설정 변경
+
+
+### 1.3. Reference Manual 확인 및 GPIO 설정 변경
 
 [RM0383 Reference Manual : STM32F411xC/E advanced Arm  -based 32-bit MCUs](https://www.st.com/resource/en/reference_manual/rm0383-stm32f411xce-advanced-armbased-32bit-mcus-stmicroelectronics.pdf)
 
@@ -101,7 +107,9 @@
 
 ※ PA6은 LED가 연결된 핀이 아니므로 LED 점등 대신 오실로스코프로 출력 신호를 확인한다.
 
-#### 1-4. 오실로스코프
+
+
+### 1.4. Oscilloscope
 
 1. PA6 핀에 오실로스코프 Probe 연결
 
@@ -124,4 +132,6 @@
     </td>
   </tr>
 </table>
+
+
 ---

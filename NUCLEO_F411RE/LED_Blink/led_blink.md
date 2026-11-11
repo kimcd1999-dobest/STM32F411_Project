@@ -80,6 +80,17 @@
 
 [RM0383 Reference Manual : STM32F411xC/E advanced Arm  -based 32-bit MCUs](https://www.st.com/resource/en/reference_manual/rm0383-stm32f411xce-advanced-armbased-32bit-mcus-stmicroelectronics.pdf)
 
+<table>
+  <tr>
+    <td align="center">
+      <img alt="010" src="./img_led/led_11.png" width="600" />
+    </td>
+    <td align="center">
+      <img alt="010" src="./img_led/led_12.png" width="600" />
+    </td>
+  </tr>
+</table>
+
 1. Reference Manual STM32F411RE PA6 핀 정보 확인
 
 2. GPIOA_MODER register에서 PA6의 비트 위치 확인

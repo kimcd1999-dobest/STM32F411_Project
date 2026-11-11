@@ -1,6 +1,5 @@
 ### 1. LED_Blink
 
-```html
 <small>[1.1. STM32CubeMX](#11-stm32cubemx)</small>
 
 <small>[1.2. Debugging](#12-debugging)</small>
@@ -8,7 +7,6 @@
 <small>[1.3. Reference Manual 확인 및 GPIO 설정 변경](#13-reference-manual-확인-및-gpio-설정-변경)</small>
 
 <small>[1.4. 오실로스코프](#14-오실로스코프)</small>
-```
 
 #### 1.1. STM32cubeMX
 
@@ -51,7 +49,7 @@
 
 #### 1.2. Debugging
 
-1. 디버깅 모드 진입
+1. Debug Mode
 
 <img alt="010" src="./img_led/led_07.png" style="zoom: 80%;" />
 <br>
@@ -112,8 +110,9 @@
 3. `GPIOA_ODR` 값을 `0x00`과 `0x40`으로 변경
 
 4. 오실로스코프에서 출력 전압 변화 확인
+    - TRIG MENU `모드` 확인
 
-5. 상승 엣지(Rising Edge)와 하강 엣지(Falling Edge) 관찰
+5. 상승 엣지(Rising Edge)와 하강 엣지(Falling Edge) 확인
 
 <table>
   <tr>

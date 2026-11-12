@@ -145,6 +145,17 @@ while (1)
 
 ### 2.1. STM32CubeMX HC_SR04
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="./HC_SR04_img/img_16.png" width="600">
+    </td>
+    <td align="center">
+      <img src="./HC_SR04_img/img_15.png" width="600">
+    </td>
+  </tr>
+</table>
+
 목표 : HC-SR04 초음파 센서를 사용해서 거리 측정을 진행한다.
 
 이전 진행한 설정에서 Echo 설정만 새로 수정한다.

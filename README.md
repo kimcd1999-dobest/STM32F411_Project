@@ -21,6 +21,9 @@
   </tr>
 </table>
 
+## F411RE Pinout
+![](image/f411re_pinout.png)
+
 ## Firmware
 
 * RCC : Disable

@@ -48,8 +48,7 @@ GPIOA 핀을 PA0에 연결하고, TIM1을 사용한다.
    - Clock Source : Internal Clock
    - Prescaler : `84-1`
    - Counter Period : `65535`
-   - 84 MHz / 84 = 1 MHz → 카운터 1 증가 = 1 ㎲
-   - Channel은 사용하지 않고, Counter만 delay_us 용도로 사용
+   - 84 MHz / 84 = 1 MHz → 카운터 1 증가 = 1us
 
 4. GPIO
 
@@ -76,7 +75,7 @@ void delay_us(uint16_t us)
 }
 ```
 
-   - Prescaler가 `84-1`이므로 TIM1 카운터는 1 ㎲마다 1씩 증가한다.
+   - Prescaler가 `84-1`이므로 TIM1 카운터는 1㎲마다 1씩 증가한다.
    - 따라서 카운터 값 = 지연 시간(㎲)이 된다.
    - `timer_start()`는 `main()`의 while 문 이전에 한 번 호출한다.
 

@@ -112,7 +112,7 @@ speed_x10 = 3313 + (606 × T_x10) / 1000 + (12 × RH_x10) / 1000
 - 2500~4000 범위로 클램프, `dht.valid == 1`일 때만 `Ultrasonic_SetSoundSpeedX10()` 호출
 
 <details>
-<summary>C code</summary>
+<summary><strong>C code</strong></summary>
 
 ```c
 /* USER CODE END Header */

@@ -111,6 +111,9 @@ speed_x10 = 3313 + (606 × T_x10) / 1000 + (12 × RH_x10) / 1000
 - `T_x10` = 온도 ×10 (0.1 °C), `RH_x10` = 습도 ×10 (0.1 %RH)
 - 2500~4000 범위로 클램프, `dht.valid == 1`일 때만 `Ultrasonic_SetSoundSpeedX10()` 호출
 
+---
+다음은 수정할 main() 코드이다.
+
 <details>
 <summary><strong>C code</strong></summary>
 

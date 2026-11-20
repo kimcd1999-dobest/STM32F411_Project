@@ -74,3 +74,9 @@
 [STEP02_거리측정](./STEP02_거리측정/STEP02_거리측정.md)
 
 [STEP03_온습도_보정](./STEP03_온습도_보정/STEP03_온습도_보정.md)
+
+[STEP04_FreeRTOS](./STEP04_FreeRTOS/STEP04_FreeRTOS.md)
+
+
+---
+[이전 목차](../README.md)

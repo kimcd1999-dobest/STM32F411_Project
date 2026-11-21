@@ -667,7 +667,7 @@ print(f"{'='*60}")
 <table>
   <tr>
     <td align="center">
-      <img src="./img/viz_side_by_side.png" width="400">
+      <img src="./img/viz_side_by_side.png" width="200">
     </td>
     <td align="center">
       <img src="./img/viz_confusion_matrix.png" width="600">
@@ -1762,8 +1762,6 @@ print("저장 위치:", output_dir)
     +---8
     \---9
 ```
-
-training & test data는 첨부파일을 참조한다.
 
 
 

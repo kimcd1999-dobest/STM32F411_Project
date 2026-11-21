@@ -67,15 +67,13 @@
 
 ## 파일 링크
 
-[STEP00_환경확인](./STEP00_환경확인.md)
-
-[STEP01_LED](./STEP01_LED.md)
-
-[STEP02_거리측정](./STEP02_거리측정/STEP02_거리측정.md)
-
-[STEP03_온습도_보정](./STEP03_온습도_보정/STEP03_온습도_보정.md)
-
-[STEP04_FreeRTOS](./STEP04_FreeRTOS/STEP04_FreeRTOS.md)
+- [STEP00_환경확인](./STEP00_환경확인.md)
+- [STEP01_LED](./STEP01_LED.md)
+- [STEP02_거리측정](./STEP02_거리측정/STEP02_거리측정.md)
+- [STEP03_온습도_보정](./STEP03_온습도_보정/STEP03_온습도_보정.md)
+- [STEP04_FreeRTOS](./STEP04_FreeRTOS/STEP04_FreeRTOS.md)
+- [STEP05_MCU_AI_TFLite](#)
+  - [AI_MNIST](./STEP05_MCU_AI_TFLite/PC_MNIST_to_TFLite.md)
 
 
 ---

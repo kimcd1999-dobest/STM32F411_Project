@@ -667,7 +667,7 @@ print(f"{'='*60}")
 <table>
   <tr>
     <td align="center">
-      <img src="./img/viz_side_by_side.png" width="600">
+      <img src="./img/viz_side_by_side.png" width="400">
     </td>
     <td align="center">
       <img src="./img/viz_confusion_matrix.png" width="600">
